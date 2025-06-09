@@ -1,5 +1,52 @@
-# Vue 3 + Vite
+# GameHaven
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+GameHaven is an e-commerce site for gaming accessories, built with Vue.js, JavaScript, HTML, CSS, and Tailwind CSS. It showcases modern, responsive front-end design focused on great user experience and clean code.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## Table of Contents
+
+- [About](#about)  
+- [Features](#features)  
+- [Installation](#installation)  
+- [Contact](#contact)  
+
+---
+
+## About
+
+GameHaven is a sleek, user-friendly e-commerce website specializing in gaming accessories like mice, keyboards, headsets, speakers, and ergonomic chairs. Built with Vue.js, JavaScript, HTML, CSS, and styled using Tailwind CSS, the site emphasizes a modern, responsive front-end experience. This project highlights my ability to craft engaging, performant interfaces that appeal to gamers and inspire brands, while demonstrating practical skills in contemporary web development technologies.
+
+---
+
+## Features
+
+- Feature 1 — Catchy design with responsive features on hover, routing, and clicking 
+- Feature 2 — Good design on all pages with a focused main theme color of purple
+- Feature 3 — Navbar and Sidebars have consistency in terms of design as well as the hover effects of cards
+
+---
+
+## Installation
+
+Step-by-step instructions to get your project running locally.
+
+```bash
+# Clone the repo
+git clone https://github.com/YourUsername/YourRepo.git
+
+# Go into the project directory
+cd YourRepo
+
+# Install dependencies
+npm install
+
+# Start the projec
+npm run dev
+
+---
+
+## [Contact]
+
+- Email: jiabarce17@gmail.com
+- LinkedIn: [Joseph Barce](https://www.linkedin.com/in/joisaacbar-ce/)
