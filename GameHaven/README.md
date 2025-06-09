@@ -35,8 +35,12 @@ Step-by-step instructions to get your project running locally.
 # Clone the repo
 git clone https://github.com/YourUsername/YourRepo.git
 
+
 # Go into the project directory
 cd YourRepo
+
+# Pull lfs
+git pull lfs
 
 # Install dependencies
 npm install
