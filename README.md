@@ -7,7 +7,7 @@ It features product browsing, category filters, a shopping cart, and modals for 
 
 ## 🚀 Features
 - Responsive layout (mobile, tablet, desktop)
-- Category filters with a sidebar or top buttons
+- Category filters with a sidebar and navbar buttons
 - Product carousel for smaller screens
 - Product detail modal with image, description, price, and buttons
 - Add to Cart & Buy Now functionality
